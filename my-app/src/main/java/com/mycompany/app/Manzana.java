@@ -9,7 +9,7 @@ public class Manzana {
         System.out.println("Constructor Manzana()");
     }
     
-    public Manzana(String fami lia, int peso, String color){
+    public Manzana(String familia, int peso, String color){
         this.familia = familia;
         this.peso = peso;
         this.color = color;
